@@ -47,7 +47,7 @@ After completing Introduction to Vitis Part 1 and 2, you will learn to:
     source $AWS_FPGA_REPO_DIR/vitis_runtime_setup.sh
     ```
 
-1. Invoke GUI by executing the following command:
+1. Invoke GUI by executing the following command from a terminal window:
 
     ```sh
     vitis &
